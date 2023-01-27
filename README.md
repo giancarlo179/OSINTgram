@@ -15,4 +15,8 @@ La información que se puede recuperar incluye:
   
 NOTA: Es importante tener en cuenta que el uso de API privadas como esta va en contra de los términos de uso de Instagram y puede resultar en la prohibición de su cuenta. Además, este es solo un ejemplo, extraer datos de una plataforma de redes sociales como Instagram es ilegal en muchos países.
 
+![image](https://user-images.githubusercontent.com/32601403/214996600-d033198e-6835-493d-a6e6-3681d638d03c.png)
+
 ![image](https://user-images.githubusercontent.com/32601403/214996164-2080b5eb-011e-424c-9fb9-bc6a9b095725.png)
+
+
